@@ -1,0 +1,57 @@
+﻿  Board.cpp
+C:\Users\ACer\OneDrive\Desktop\SFML Projects\Chess\Board.cpp(18,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ACer\OneDrive\Desktop\SFML Projects\Chess\Board.cpp(96,57): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+C:\Users\ACer\OneDrive\Desktop\SFML Projects\Chess\Board.cpp(96,41): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+C:\Users\ACer\OneDrive\Desktop\SFML Projects\Chess\Board.cpp(108,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ACer\OneDrive\Desktop\SFML Projects\Chess\Board.cpp(108,50): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACer\OneDrive\Desktop\SFML Projects\Chess\Board.cpp(112,22): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ACer\OneDrive\Desktop\SFML Projects\Chess\Board.cpp(112,53): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACer\OneDrive\Desktop\SFML Projects\Chess\Board.cpp(118,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACer\OneDrive\Desktop\SFML Projects\Chess\Board.cpp(118,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACer\OneDrive\Desktop\SFML Projects\Chess\Board.cpp(120,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACer\OneDrive\Desktop\SFML Projects\Chess\Board.cpp(120,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ACer\OneDrive\Desktop\SFML Projects\Chess\Board.cpp(250,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACer\OneDrive\Desktop\SFML Projects\Chess\Board.cpp(250,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACer\OneDrive\Desktop\SFML Projects\Chess\Board.cpp(407,67): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ACer\OneDrive\Desktop\SFML Projects\Chess\Board.cpp(407,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Chess.vcxproj -> C:\Users\ACer\OneDrive\Desktop\SFML Projects\Chess\Debug\Chess.exe

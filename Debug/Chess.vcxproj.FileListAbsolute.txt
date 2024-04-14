@@ -1,0 +1,2 @@
+C:\Users\ACer\OneDrive\Desktop\SFML Projects\Chess\Debug\Chess.exe
+C:\Users\ACer\OneDrive\Desktop\SFML Projects\Chess\Debug\Chess.pdb
