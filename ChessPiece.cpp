@@ -529,7 +529,6 @@ bool ChessPiece::move(Cell& begin, Cell& end)
         {
             begin._chess.swap(end._chess);
             begin._chess->setPosition(begin._x, begin._y);
-            cout << "Your King got checked if u move" << endl;
             return false;
         }
     }
@@ -539,7 +538,6 @@ bool ChessPiece::move(Cell& begin, Cell& end)
         {
             begin._chess.swap(end._chess);
             begin._chess->setPosition(begin._x, begin._y);
-            cout << "Your King got checked if u move" << endl;
             return false;
         }
     }
@@ -565,7 +563,6 @@ bool ChessPiece::eat(Cell& begin, Cell& end)
             begin._chess = temp;
             begin._chess.swap(end._chess);
             begin._chess->setPosition(begin._x, begin._y);
-            cout << "Your King got checked if u move" << endl;
             return false;
         }
     }
@@ -576,7 +573,6 @@ bool ChessPiece::eat(Cell& begin, Cell& end)
             begin._chess = temp;
             begin._chess.swap(end._chess);
             begin._chess->setPosition(begin._x, begin._y);
-            cout << "Your King got checked if u move" << endl;
             return false;
         }
     }
@@ -601,7 +597,6 @@ bool ChessPiece::simuMove(Cell& begin, Cell& end)
         {
             begin._chess.swap(end._chess);
             begin._chess->setPosition(begin._x, begin._y);
-            cout << "Your King got checked if u move" << endl;
             return false;
         }
     }
@@ -611,7 +606,6 @@ bool ChessPiece::simuMove(Cell& begin, Cell& end)
         {
             begin._chess.swap(end._chess);
             begin._chess->setPosition(begin._x, begin._y);
-            cout << "Your King got checked if u move" << endl;
             return false;
         }
     }
@@ -634,7 +628,6 @@ bool ChessPiece::simuEat(Cell& begin, Cell& end)
             begin._chess = temp;
             begin._chess.swap(end._chess);
             begin._chess->setPosition(begin._x, begin._y);
-            cout << "Your King got checked if u move" << endl;
             return false;
         }
     }
@@ -645,7 +638,6 @@ bool ChessPiece::simuEat(Cell& begin, Cell& end)
             begin._chess = temp;
             begin._chess.swap(end._chess);
             begin._chess->setPosition(begin._x, begin._y);
-            cout << "Your King got checked if u move" << endl;
             return false;
         }
     }
